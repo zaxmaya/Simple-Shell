@@ -14,5 +14,5 @@ This C program is a command line interpreter which parses through inputted comma
 
 ## Compilation and Execution
 To compile and run `sish.c`, use the following commands in your terminal:
-gcc -o sish sish.c
-./sish
+`gcc -o sish sish.c`
+`./sish`
